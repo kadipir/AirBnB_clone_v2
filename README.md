@@ -1,0 +1,1 @@
+This the airbnb project that involves cloning of the airbnb website in order to carry out this project, an interpreter needs to be created throgh the use of the cmd module from which the Cmd clas is imported. The class contains many methods such as the cmdloop() that enables the iteration of the interpreter prompt.
