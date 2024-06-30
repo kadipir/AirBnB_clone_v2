@@ -16,7 +16,7 @@ echo "<html>
 <body>hello there</body>
 </html>" | sudo tee /data/web_static/releases/test/index.html
 
-sudo -ln -s /data/web_static/current /data/web_static/releases/test/
+sudo -ln -s /data/web_static/releases/test/ /data/web_static/current
 
 sudo chown -R ubuntu:ubuntu /data/
 
